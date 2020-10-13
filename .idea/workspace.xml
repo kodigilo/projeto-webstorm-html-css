@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97cf1ce0-124d-45d8-93fb-850842d8d38c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="Sass File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/template.sass" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1io5Uiu8eh8AqTiPBoDj1ctPx6F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97cf1ce0-124d-45d8-93fb-850842d8d38c" name="Default Changelist" comment="" />
+      <created>1602561122385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602561122385</updated>
+      <workItem from="1602561123042" duration="194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="347" key="#File_Watchers" timestamp="1602561316695">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="593" y="347" key="#File_Watchers/0.23.1440.877@0.23.1440.877" timestamp="1602561316695" />
+    <state x="507" y="173" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602561194836">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="507" y="173" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.877@0.23.1440.877" timestamp="1602561194836" />
+    <state x="372" y="246" width="695" height="627" key="EditFileWatcherDialog" timestamp="1602561219990">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="372" y="246" width="695" height="627" key="EditFileWatcherDialog/0.23.1440.877@0.23.1440.877" timestamp="1602561219990" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1602561226291">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1602561226291" />
+  </component>
+</project>
